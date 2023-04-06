@@ -2,3 +2,5 @@
 HackerRank practice
 
 - Python
+- Bash
+- SQL
